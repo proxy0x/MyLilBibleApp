@@ -19,4 +19,4 @@ AKJV, ASV, ERV, KJV, NIV, WBT, WEB, YLT
 ```python main.py```
 
 
-
+![Screenshot](https://github.com/proxy0x/MyLilBibleApp/assets/140286530/5c3360f9-96b6-49ac-b3dc-09d11478304e)
