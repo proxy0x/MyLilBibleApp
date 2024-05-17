@@ -1,4 +1,4 @@
-##MyLilBibleApp Bible Viewer
+## MyLilBibleApp Bible Viewer
 This Bible Viewer is a desktop application built with Python and PyQt5 that allows users to view different versions of the Bible conveniently on their computer.
 
 Features
