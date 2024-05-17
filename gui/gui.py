@@ -10,6 +10,7 @@ class PDFViewer(QMainWindow):
     def __init__(self, app):
         super().__init__()
         self.app = app
+        self.setWindowTitle("MyLilBibleApp")  # Set window title
         self.setGeometry(100, 100, 800, 750)
         self.current_page = 0
         self.pdf_files = []
