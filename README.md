@@ -7,6 +7,9 @@ This Bible Viewer is a desktop application built with Python and PyQt5 that allo
 - Jump to a specific page by entering the page number.
 - Responsive user interface with page navigation controls.
 
+## Versions Included
+AKJV, ASV, ERV, KJV, NIV, WBT, WEB, YLT
+
 ## Installation
 ```git clone https://github.com/proxy0x/MyLilBibleApp```
 
